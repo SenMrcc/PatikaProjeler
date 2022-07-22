@@ -38,12 +38,12 @@ Proje 2
 
 -------------------------------------------
 
-Proje 3
+ Proje 3
 
-[7,5,1,8,3,6,0,9,4,2] --> Binary-Search-Tree
+ [7,5,1,8,3,6,0,9,4,2] --> Binary-Search-Tree
 
-       4
-    3     5
-  1         7     -----------> Bulabildiğim Best Case
-0   3     6   9
-   2     5
+        4
+     3     5
+   1         7     -----------> Bulabildiğim Best Case
+ 0   3     6   9
+    2     5
